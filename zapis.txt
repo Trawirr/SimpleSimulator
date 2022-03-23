@@ -1,0 +1,20 @@
+10 
+Lis 1 9 
+Czlowiek 5 5 
+Owca 0 6 
+Owca 7 7 
+Antylopa 2 6 
+Antylopa 1 7 
+Owca 2 8 
+Zolw 0 2 
+Mlecz 5 8 
+Barszcz 1 1 
+Guarana 7 1 
+Guarana 6 0 
+Trawa 7 5 
+Trawa 4 5 
+Wilcze jagody 5 6 
+Trawa 0 9 
+Mlecz 1 6 
+Guarana 5 0 
+Guarana 0 4 
